@@ -26,6 +26,7 @@ header{
     background-color: #ffc300;
     height: 155px;
     border:solid crimson;
+   
 }
 section{
     position: relative;
@@ -35,7 +36,7 @@ section{
     border: solid #7DCEA0;
 }
 body{
-    
+    position: relative;
     background-color:#34495E ;
     
 }
