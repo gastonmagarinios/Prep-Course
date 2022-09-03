@@ -35,9 +35,9 @@ text-align: center;
 
 /* Acá va tu código */
 #ejercicioCuatro{
-    display: flexbox;
-    position:absolute;
+    position:fixed;
     top: 0px;
+    left: 0px;
 
 }
 /* Ejercicio 5: */
@@ -47,13 +47,13 @@ text-align: center;
     display: flex;
     justify-content: space-around;
     align-items: center;
+    
 }
 
 
 /* Ejercicio 6. */
 #ejercicioCinco{
-    flex-direction:column;
-    
+    flex-direction: row-reverse   
 }
 #ejercicioSiete{
     flex-flow:column-reverse  wrap;
